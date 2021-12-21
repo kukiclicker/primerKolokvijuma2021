@@ -1,0 +1,8 @@
+C:\Users\umitr\Documents\primerKolokvijuma2021\PresentationalLayer\PresentationalLayer\bin\Debug\PresentationalLayer.dll
+C:\Users\umitr\Documents\primerKolokvijuma2021\PresentationalLayer\PresentationalLayer\bin\Debug\PresentationalLayer.pdb
+C:\Users\umitr\Documents\primerKolokvijuma2021\PresentationalLayer\PresentationalLayer\obj\Debug\PresentationalLayer.csproj.AssemblyReference.cache
+C:\Users\umitr\Documents\primerKolokvijuma2021\PresentationalLayer\PresentationalLayer\obj\Debug\PresentationalLayer.UserControl1.resources
+C:\Users\umitr\Documents\primerKolokvijuma2021\PresentationalLayer\PresentationalLayer\obj\Debug\PresentationalLayer.csproj.GenerateResource.cache
+C:\Users\umitr\Documents\primerKolokvijuma2021\PresentationalLayer\PresentationalLayer\obj\Debug\PresentationalLayer.csproj.CoreCompileInputs.cache
+C:\Users\umitr\Documents\primerKolokvijuma2021\PresentationalLayer\PresentationalLayer\obj\Debug\PresentationalLayer.dll
+C:\Users\umitr\Documents\primerKolokvijuma2021\PresentationalLayer\PresentationalLayer\obj\Debug\PresentationalLayer.pdb
